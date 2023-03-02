@@ -1,4 +1,4 @@
-<a href="https://github.com/salohiddin22/salohiddin22"><img src="vision.jpg" align="right" height="200"/></a>
+<a href="https://github.com/salohiddin22/salohiddin22"><img src="vision.jpeg" align="right" height="200"/></a>
 
 # Hi there, I'm Salohiddin Urokov 👋
 
