@@ -1,4 +1,4 @@
-<a href="https://t.me/user_name_221"><img src="download1.jpeg" align="right" height="200"/></a>
+<a href="https://t.me/user_name_221"><img src="vision.jpeg" align="right" height="200"/></a>
 
 # Hi there, I'm Salohiddin Urokov 👋
 
@@ -16,7 +16,7 @@
 - 🤔 &nbsp; Exploring new technologies and developing Deep Learning modules related to Computer Vision tasks.
 - 🎓 &nbsp; Computer and AI Engineering - Currently doing PhD at Kumoh National Institute of Technology.
 - ⌛️ &nbsp; Currently I'm busy with:
-  - 💼 &nbsp; Doing research in [CVPR] lab of Kumoh National Institute of Technology (http://cvpr.kumoh.ac.kr/).
+  - 💼 &nbsp; Doing research in [CVPR](http://cvpr.kumoh.ac.kr) lab of Kumoh National Institute of Technology.
 - 🌱 &nbsp; Learning Deep Learning, Computer Vision and a lot more tech stuff.
 - 📫 &nbsp; Reach me at: surokovai@gmail.com
 
