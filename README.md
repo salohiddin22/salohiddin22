@@ -1,9 +1,9 @@
-<a href="https://t.me/user_name_221"><img src="abcdownload1.jpeg" align="right" height="200"/></a>
+<a href="https://t.me/user_name_221"><img src="download1.jpeg" align="right" height="200"/></a>
 
 # Hi there, I'm Salohiddin Urokov 👋
 
 > A Deep Learning engineer building awesome AI/Computer Vision stuff using Python, OpenCV, PyTorch. A loving father to a lovely cute little daughter 👨‍🍼.
-<br/><br/><br/>
+<br/><br/>
 
 <p align="end">
 
