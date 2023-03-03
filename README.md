@@ -17,7 +17,7 @@
 - 🎓 &nbsp; Computer and AI Engineering - Currently doing PhD at Kumoh National Institute of Technology.
 - ⌛️ &nbsp; Currently I'm busy with:
   - 💼 &nbsp; Doing research in [CVPR](http://cvpr.kumoh.ac.kr) lab of Kumoh National Institute of Technology.
-- 🌱 &nbsp; Learning Deep Learning, Computer Vision and a lot more tech stuff.
+- 🌱 &nbsp; Learning AI/Deep Learning, Computer Vision and a lot more AI related stuff.
 - 📫 &nbsp; Reach me at: surokovai@gmail.com
 
 <!--
