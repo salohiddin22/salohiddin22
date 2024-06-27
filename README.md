@@ -42,7 +42,7 @@
 
 <br/>
 -->
-<h1>Me Stats</h1>
+<h1>My Stats</h1>
 
 <div align="center">
 <a href="">
