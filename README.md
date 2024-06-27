@@ -2,7 +2,7 @@
 
 # Hi there, I'm Salohiddin Urokov 👋
 
-> A Deep Learning researcher/engineer building awesome AI/Computer Vision applications using Python, OpenCV, PyTorch, TensorFlow. A loving father to a lovely cute little daughter 👨‍🍼.
+> A Deep Learning researcher/engineer, who builds awesome AI/Computer Vision applications. A loving father to a lovely cute little daughter 👨‍🍼.
 <br/><br/>
 
 <p align="end">
