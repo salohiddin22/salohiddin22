@@ -2,7 +2,7 @@
 
 # Hi there, I'm Salohiddin Urokov 👋
 
-> A Deep Learning researcher/engineer building awesome AI/Computer Vision stuff using Python, OpenCV, PyTorch. A loving father to a lovely cute little daughter 👨‍🍼.
+> A Deep Learning researcher/engineer building awesome AI/Computer Vision applications using Python, OpenCV, PyTorch, TensorFlow. A loving father to a lovely cute little daughter 👨‍🍼.
 <br/><br/>
 
 <p align="end">
@@ -14,9 +14,9 @@
 <h1> 👨🏻‍💻 Me now </h1>
 
 - 🤔 &nbsp; Exploring new technologies and developing Deep Learning modules related to Computer Vision tasks.
-- 🎓 &nbsp; Computer and AI Engineering - Currently doing PhD at Kumoh National Institute of Technology.
+- 🎓 &nbsp; Computer and AI Engineering - Currently doing PhD at Kumoh National Institute of Technology (KIT).
 - ⌛️ &nbsp; Currently I'm busy with:
-  - 💼 &nbsp; Doing research in [CVPR](http://cvpr.kumoh.ac.kr) lab of Kumoh National Institute of Technology.
+- 💼 &nbsp; Doing research in [CVPR](http://cvpr.kumoh.ac.kr) lab of Kumoh National Institute of Technology.
 - 🌱 &nbsp; Learning AI/Deep Learning, Computer Vision and a lot more AI related stuff.
 - 📫 &nbsp; Reach me at: surokovai@gmail.com
 
@@ -37,8 +37,8 @@
 
 [![Salohiddin's Streak](https://github-readme-streak-stats.herokuapp.com?user=salohiddin22&theme=dark&date_format=M%20j%5B%2C%20Y%5D&border=FFFFFF&ring=3722DD)](https://git.io/streak-stats)
 
-[![](https://komarev.com/ghpvc/?username=salohiddin22&color=orange&label=Profile%20Views)](https://github.com/wahid-d/wahid-d)
-[![](https://img.shields.io/github/followers/salohiddin22?label=GitHub%20Followers)](https://github.com/wahid-d)
+[![](https://komarev.com/ghpvc/?username=salohiddin22&color=orange&label=Profile%20Views)](https://github.com/salohiddin22/salohiddin22)
+[![](https://img.shields.io/github/followers/salohiddin22?label=GitHub%20Followers)](https://github.com/salohiddin22/salohiddin22)
 
 <!--
 **salohiddin22/salohiddin22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
