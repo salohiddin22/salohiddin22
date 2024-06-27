@@ -33,7 +33,7 @@
   <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="github" width="40" height="40"/> 
-  <img src="https://view.svg.zone/view.html?url=https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg&zoom=max&backUrl=https://www.vectorlogo.zone/logos/ubuntu/index.html&backText=Return+to+VectorLogoZone" alt="linux" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" alt="linux" width="40" height="40"/>
   <img src="https://code.visualstudio.com/assets/images/code-stable.png" alt="vscode" width="40" height="40"/> 
 </p>
 
