@@ -21,7 +21,7 @@
 - 📫 &nbsp; Reach me at: surokovai@gmail.com
 
 
-### 🔧📚 Skills
+### 🔧 Tools & Skills
 <p align="left">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> 
@@ -42,7 +42,7 @@
 
 <br/>
 -->
-<h1>My Stats</h1>
+<h1>Me Stats</h1>
 
 <div align="center">
 <a href="">
@@ -68,5 +68,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ...📚
 -->
