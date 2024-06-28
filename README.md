@@ -1,6 +1,6 @@
 
 # Hi there, I'm Salohiddin Urokov 👋
-<a href="https://github.com/salohiddin22/salohiddin22"><img src="vision.gif" align="right" height="175"/></a>
+<a href="https://github.com/salohiddin22/salohiddin22"><img src="vision1.gif" align="right" height="175"/></a>
 > A Deep Learning researcher/engineer, who builds awesome AI/Computer Vision applications. A loving father to a lovely cute little daughter 👨‍🍼.
 <br/><br/>
 
