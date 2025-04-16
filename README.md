@@ -1,7 +1,7 @@
 
 # Hi there, I'm Salohiddin 👋
 <a href="https://github.com/salohiddin22/salohiddin22"><img src="vision2.gif" align="right" height="174"/></a>
-> A Deep Learning researcher/engineer, who builds awesome AI/Computer Vision applications. A loving father to a lovely cute little daughter 👨‍🍼.
+> A Deep Learning researcher/engineer, who builds awesome AI/Computer Vision applications.
 <br/><br/>
 
 
