@@ -4,7 +4,7 @@
 
 > **Senior AI Engineer** building real-time Computer Vision and Multimodal AI systems for industrial environments.
 
-<a href="https://www.linkedin.com/in/salohiddin-urokov-61552a62/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/salohiddin-urokov/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
 <a href="mailto:surokovai@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"></a>
 
 <br clear="right"/>
