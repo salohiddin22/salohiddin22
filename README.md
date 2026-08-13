@@ -15,9 +15,8 @@
 - 🎓 &nbsp; Ph.D. candidate in Computer-AI Convergence Engineering at Kumoh National Institute of Technology (KIT)
 - 🔬 &nbsp; Research background at the CVPR Lab (KIT) — segmentation, attention-based classification, synthetic data generation
 - ⚡ &nbsp; I work across the full lifecycle: data collection → annotation → training → optimization → edge deployment
-- 🌱 &nbsp; Currently going deeper into Vision-Language Models and applying vision to physical systems (robotics / autonomous platforms)
+- 🌱 &nbsp; Currently going deeper into Vision-Language Models and applying vision in industrial settings
 
-> ℹ️ &nbsp; Most of my recent work lives in private company repositories, so this profile reflects my stack rather than my public codebase.
 
 ## 🎯 Focus Areas
 
