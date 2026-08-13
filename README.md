@@ -1,72 +1,73 @@
-
 # Hi there, I'm Salohiddin 👋
+
 <a href="https://github.com/salohiddin22/salohiddin22"><img src="vision2.gif" align="right" height="174"/></a>
-> A Deep Learning researcher/engineer, who builds awesome AI/Computer Vision applications.
-<br/><br/>
 
+> **Senior AI Engineer** building real-time Computer Vision and Multimodal AI systems for industrial environments.
 
-<p align="end">
+<a href="https://www.linkedin.com/in/salohiddin-urokov-61552a62/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
+<a href="mailto:surokovai@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"></a>
 
-<a href="https://www.linkedin.com/in/salohiddin-urokov-61552a62/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-gray?style=flat-square&logo=linkedin"></a>
+<br clear="right"/>
 
-</p>
+## 👨🏻‍💻 About Me
 
-<h1> 👨🏻‍💻 Me now </h1>
+- 🏭 &nbsp; Senior ML & DL Engineer — building production AI vision systems for industrial safety, defect inspection, and surveillance analytics
+- 🎓 &nbsp; Ph.D. candidate in Computer-AI Convergence Engineering at Kumoh National Institute of Technology (KIT)
+- 🔬 &nbsp; Research background at the CVPR Lab (KIT) — segmentation, attention-based classification, synthetic data generation
+- ⚡ &nbsp; I work across the full lifecycle: data collection → annotation → training → optimization → edge deployment
+- 🌱 &nbsp; Currently going deeper into Vision-Language Models and applying vision to physical systems (robotics / autonomous platforms)
 
-- 🤔 &nbsp; Exploring new technologies and developing Deep Learning modules related to Computer Vision tasks.
-- 🎓 &nbsp; Computer and AI Engineering - Currently doing PhD at Kumoh National Institute of Technology (KIT).
-- ⌛️ &nbsp; Currently I'm busy with:
-- 💼 &nbsp; Doing research in [CVPR](http://cvpr.kumoh.ac.kr) lab of Kumoh National Institute of Technology (KIT).
-- 🌱 &nbsp; Learning AI/Deep Learning, Computer Vision and a lot more AI related stuff.
-- 📫 &nbsp; Reach me at: surokovai@gmail.com
+> ℹ️ &nbsp; Most of my recent work lives in private company repositories, so this profile reflects my stack rather than my public codebase.
 
+## 🎯 Focus Areas
 
-### 🔧 Tools & Skills
-<p align="left">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> 
-  <img src="https://numpy.org/images/logo.svg" alt="numpy" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" alt="github" width="40" height="40"/> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" alt="linux" width="40" height="40"/>
-  <img src="https://code.visualstudio.com/assets/images/code-stable.png" alt="vscode" width="40" height="40"/>
-</p>
+**Computer Vision** &nbsp;·&nbsp; Object Detection · Segmentation · Pose Estimation · Action Recognition · Anomaly Detection · Tracking · Image Classification
 
-<!--
-<br/>
+**Multimodal AI** &nbsp;·&nbsp; Vision-Language Models (VLM) · Visual Grounding · VLM Fine-tuning
 
+**Edge AI** &nbsp;·&nbsp; Model Lightweighting · Quantization · Pruning · Real-time Inference Optimization
 
-<br/>
--->
-<h1>Me Stats</h1>
+## 🔧 Tech Stack
 
-<div align="center">
-<a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=salohiddin22&count_private=true&include_all_commits=true&show_icons=true&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" />
-<a />
-<div>
- <br/>
+**Languages**
 
-[![Salohiddin's Streak](https://github-readme-streak-stats.herokuapp.com?user=salohiddin22&theme=dark&date_format=M%20j%5B%2C%20Y%5D&border=FFFFFF&ring=3722DD)](https://git.io/streak-stats)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
 
-[![](https://komarev.com/ghpvc/?username=salohiddin22&color=orange&label=Profile%20Views)](https://github.com/salohiddin22/salohiddin22)
-[![](https://img.shields.io/github/followers/salohiddin22?label=GitHub%20Followers)](https://github.com/salohiddin22/salohiddin22)
+**Deep Learning & Vision**
 
-<!--
-**salohiddin22/salohiddin22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=flat-square&logo=yolo&logoColor=black)
+![Unsloth](https://img.shields.io/badge/Unsloth-1E8E3E?style=flat-square)
 
-Here are some ideas to get you started:
+**Edge AI & Optimization**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...📚
--->
+![ONNX](https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white)
+![TensorRT](https://img.shields.io/badge/TensorRT-76B900?style=flat-square&logo=nvidia&logoColor=white)
+![NVIDIA Jetson](https://img.shields.io/badge/NVIDIA%20Jetson-76B900?style=flat-square&logo=nvidia&logoColor=white)
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white)
+![vLLM](https://img.shields.io/badge/vLLM-4B275F?style=flat-square)
+
+**Data & Tooling**
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
+![Weights & Biases](https://img.shields.io/badge/W%26B-FFBE00?style=flat-square&logo=weightsandbiases&logoColor=black)
+
+## 🌐 Languages
+
+English (IELTS 8.0) &nbsp;·&nbsp; Korean (TOPIK 5) &nbsp;·&nbsp; Russian &nbsp;·&nbsp; Uzbek (Native)
+
+---
+
+<p align="center"><i>Open to opportunities in Computer Vision, Multimodal AI, and Edge AI.</i></p>
